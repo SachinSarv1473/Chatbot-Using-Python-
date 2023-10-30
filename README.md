@@ -9,6 +9,7 @@ The project consists of three main files:
 - `app.py`: This is the main Python script that contains the Flask application and the chatbot logic.
 - `templates/index.html`: This is the frontend of the web application.
 - `dialogs.txt`: This is the dataset used to train the chatbot model.
+- `NMphase5.ipynb`: Complete documentation of the project with executed codes and outputs.
 
 ## Dependencies
 
